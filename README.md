@@ -1,0 +1,1 @@
+This is a Hangman game for The Odin Project.
